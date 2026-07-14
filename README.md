@@ -1,4 +1,3 @@
-# slm_tiny.stories
 # SLM Project — Small Language Model from Scratch
 
 A minimal, from-scratch implementation of a GPT-style decoder-only Transformer, trained on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset. The project walks through the full pipeline: data loading, tokenization, model architecture, training, evaluation, and text generation — implemented in pure PyTorch with no high-level model libraries.
